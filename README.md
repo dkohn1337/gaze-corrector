@@ -197,3 +197,7 @@ To fully remove everything:
 brew uninstall --cask obs  # optional
 rm -rf ~/gaze_corrector
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
