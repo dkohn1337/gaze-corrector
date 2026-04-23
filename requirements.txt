@@ -1,0 +1,5 @@
+opencv-python>=4.8
+mediapipe>=0.10.9
+numpy>=1.24
+pyvirtualcam>=0.14
+rumps>=0.4.0
